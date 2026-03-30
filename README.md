@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HEADER: Venom drip effect — unique, nobody uses this -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=00ff41&height=200&text=MRUNAL%20CHAWDA&fontSize=50&fontColor=00ff41&stroke=00ff41&strokeWidth=1" width="100%"/>
+<!-- HEADER: Shark wave with subtle blue -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:1565c0,100:0d1117&height=220&text=MRUNAL%20CHAWDA&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -38,14 +38,7 @@ class Mrunal:
 
 <br/>
 
-<!-- TROPHIES -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chawdamrunal&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%"/>
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00ff41,100:0d1117&height=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1565c0,100:0d1117&height=1" width="100%"/>
 
 <!-- ARSENAL -->
 ## Arsenal
@@ -75,7 +68,7 @@ class Mrunal:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00ff41,100:0d1117&height=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1565c0,100:0d1117&height=1" width="100%"/>
 
 <!-- STATS -->
 ## Stats
@@ -93,7 +86,7 @@ class Mrunal:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00ff41,100:0d1117&height=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1565c0,100:0d1117&height=1" width="100%"/>
 
 <!-- CONTRIBUTION SNAKE -->
 <div align="center">
@@ -122,6 +115,6 @@ class Mrunal:
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=00ff41&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:1565c0,100:0d1117&height=150&section=footer" width="100%"/>
 
 </div>
