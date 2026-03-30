@@ -7,10 +7,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Infosec+Researcher+%2F%2F+Bug+Bounty+Hunter;Web+%C2%B7+Android+%C2%B7+iOS+%C2%B7+macOS+%C2%B7+Web3%2FEVM;I+find+the+breaks+before+others+do." alt="Typing SVG" /></a>
 
-<br/><br/>
-
-[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/)&nbsp;&nbsp;
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=flat-square&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/)
 
 </div>
 
