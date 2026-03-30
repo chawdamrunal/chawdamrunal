@@ -1,18 +1,27 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=220&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=230&section=header&text=Mrunal%20Chawda&fontSize=50&fontColor=00ff41&fontAlignY=35&desc=&descSize=0&animation=fadeIn" width="100%"/>
 
-<pre>
-██████╗██╗  ██╗ █████╗ ██╗    ██╗██████╗  █████╗     ███╗   ███╗██████╗ ██╗   ██╗███╗   ██╗ █████╗ ██╗
-██╔════╝██║  ██║██╔══██╗██║    ██║██╔══██╗██╔══██╗    ████╗ ████║██╔══██╗██║   ██║████╗  ██║██╔══██╗██║
-██║     ███████║███████║██║ █╗ ██║██║  ██║███████║    ██╔████╔██║██████╔╝██║   ██║██╔██╗ ██║███████║██║
-██║     ██╔══██║██╔══██║██║███╗██║██║  ██║██╔══██║    ██║╚██╔╝██║██╔══██╗██║   ██║██║╚██╗██║██╔══██║██║
-╚██████╗██║  ██║██║  ██║╚███╔███╔╝██████╔╝██║  ██║    ██║ ╚═╝ ██║██║  ██║╚██████╔╝██║ ╚████║██║  ██║███████╗
- ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═════╝ ╚═╝  ╚═╝    ╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
-</pre>
+<br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%24+whoami;Security+Researcher+%7C+Bug+Bounty+Hunter+%7C+Red+Teamer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%F0%9F%94%90+Infosec+Guy+%E2%94%82+Security+Researcher+%E2%94%82+Bug+Bounty+Hunter;%F0%9F%93%B1+Android+%C2%B7+iOS+%C2%B7+macOS+%C2%B7+Web+%C2%B7+Web3%2FEVM;%F0%9F%92%80+Breaking+things+responsibly+since+day+one" alt="Typing SVG" /></a>
+
+<br/>
+
+```
+      ___________
+     /   _____  /|        I don't break things.
+    /   /    / / |        I find the breaks before others do.
+   /   /____/ /  |
+  /   /____/ / | |        If it has an API, a login page,
+ /          /  |/|        or a smart contract —
+/__________/   / /        I've probably already looked
+|          |  / /         at it sideways.
+|  MRUNAL  | / /
+|__________|/ /
+ |__________|/
+```
 
 <br/>
 
@@ -209,9 +218,8 @@ const mrunal = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chawdamrunal/)
+[![X / Twitter](https://img.shields.io/badge/@mrunal110-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mrunal110)
 
 <br/>
 
