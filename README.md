@@ -1,36 +1,26 @@
 <div align="center">
 
-<!-- HEADER: Shark wave with subtle blue -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:1565c0,100:0d1117&height=220&text=MRUNAL%20CHAWDA&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
+<!-- HEADER: Smooth wave, dark teal gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&text=MRUNAL%20CHAWDA&fontSize=50&fontColor=ffffff&fontAlignY=32&desc=Infosec%20Researcher%20%E2%80%A2%20Bug%20Bounty%20Hunter&descSize=16&descColor=58a6ff&descAlignY=52&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Infosec+Researcher+%2F%2F+Bug+Bounty+Hunter;Web+%C2%B7+Android+%C2%B7+iOS+%C2%B7+macOS+%C2%B7+Web3%2FEVM;I+find+the+breaks+before+others+do." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=35&lines=Web+%C2%B7+Android+%C2%B7+iOS+%C2%B7+macOS+%C2%B7+Web3%2FEVM;I+find+the+breaks+before+others+do.;Recon+deep+%E2%86%92+Break+smart+%E2%86%92+Report+clean" alt="Typing SVG" /></a>
 
+<br/>
+
+```
+$ whois mrunal
+  Security researcher. Breaking things responsibly since day one.
+
+$ nslookup mrunal.targets
+  Web Apps . Android . iOS . macOS . Web3/EVM
+
+$ cat philosophy.txt
+  Every secure system is one overlooked edge case away from not being.
+```
 
 </div>
-
-<br/>
-
-<!-- ABOUT -->
-## About
-
-```python
-class Mrunal:
-    role       = "Security Researcher"
-    focus      = ["Web Apps", "Android", "iOS", "macOS", "Web3/EVM"]
-    methodology = "Recon deep. Understand fully. Break smart. Report clean."
-    philosophy = "Every secure system is one overlooked edge case away from not being."
-
-    def daily(self):
-        while self.caffeinated:
-            target = self.recon()
-            vulns = self.hunt(target)
-            if vulns:
-                self.disclose_responsibly(vulns)
-            else:
-                self.dig_deeper()
-```
 
 <br/>
 
@@ -111,6 +101,6 @@ class Mrunal:
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:1565c0,100:0d1117&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
 </div>
