@@ -56,6 +56,25 @@ $ cat philosophy.txt
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1565c0,100:0d1117&height=1" width="100%"/>
 
+<!-- FEATURED PROJECT -->
+## Featured Project
+
+<div align="center">
+
+### [Assay](https://github.com/chawdamrunal/assay) — MCP &amp; Claude Code security scanner
+
+Open-source scanner for the AI dev stack. It **threat-models** Claude Code plugins, MCP servers, hooks, skills &amp; connectors with an LLM — not regex — to catch **prompt injection**, **MCP tool poisoning**, and **credential exfiltration** before you trust them.
+
+[![chawdamrunal/assay](https://img.shields.io/badge/chawdamrunal/assay-4A3ED4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chawdamrunal/assay)
+&nbsp;
+[![MCP security docs](https://img.shields.io/badge/Docs-MCP_security_%26_threat_modeling-1565c0?style=for-the-badge)](https://chawdamrunal.github.io/assay/)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1565c0,100:0d1117&height=1" width="100%"/>
+
 <!-- STATS -->
 ## Stats
 
